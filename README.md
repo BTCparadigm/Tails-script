@@ -1,5 +1,5 @@
-# Tails_script_test
-Automatically install wasabi on tails script.
+# Tails script test
+Automatically install wasabi on Tails -script.
 
 Untested!
 
